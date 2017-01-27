@@ -39,9 +39,7 @@
 ####逆转换：
 
 ````
-
     NSLog("JSONDictionary : %@", [userModel JSONDictionary]);
-    
 ````
 
 #####结果：
@@ -77,7 +75,6 @@
 ####Description：
 ````
     NSLog(@"model : %@", userModel);
-
 ````
 
 #####结果：
