@@ -3,7 +3,7 @@
 
 <p>
 
-###简单介绍：
+### 简单介绍：
 <p>
 [从0到1造一个Model吧（一）](http://www.jianshu.com/p/568725873f8f)
 <p>
@@ -12,9 +12,9 @@
 [从0到1造一个Model吧（三）](http://www.jianshu.com/p/2898baf48bbb)
 <p>
 
-###使用实例：
+### 使用实例：
 
-####实例化：
+#### 实例化：
 ````
 
     NSString *timestampString = @([[NSDate date] timeIntervalSince1970]).stringValue;
@@ -36,13 +36,13 @@
 
 <p>
 
-####逆转换：
+#### 逆转换：
 
 ````
     NSLog("JSONDictionary : %@", [userModel JSONDictionary]);
 ````
 
-#####结果：
+##### 结果：
 
 ````
 2017-01-27 12:14:58.369 YCModelDemo[58735:2148615] JSONDictionary : {
@@ -72,12 +72,12 @@
 
 <p>
 
-####Description：
+#### Description：
 ````
     NSLog(@"model : %@", userModel);
 ````
 
-#####结果：
+##### 结果：
 
 ````
 2017-01-27 12:14:58.369 YCModelDemo[58735:2148615] userModel : { 
