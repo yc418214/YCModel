@@ -3,14 +3,9 @@
 
 <p>
 
-### 简单介绍：
-<p>
-[从0到1造一个Model吧（一）](http://www.jianshu.com/p/568725873f8f)
-<p>
-[从0到1造一个Model吧（二）](http://www.jianshu.com/p/2898baf48bbb)
-<p>
-[从0到1造一个Model吧（三）](http://www.jianshu.com/p/2898baf48bbb)
-<p>
+### 过程：
+
+[从0到1造一个Model](https://github.com/yc418214/Article/tree/master/Model)
 
 ### 使用实例：
 
